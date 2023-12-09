@@ -1,0 +1,80 @@
+.impact-description{
+    background: url(img.jpg)
+}
+body{
+    padding: 0;
+    margin: 0;
+}
+.foot{
+    background: url(WxNtKo.webp)
+}
+
+.foot{
+height: 1000px;
+    background-size: cover;
+    background-position: center;
+    color: rgb(238, 229, 229);
+    font-size: 20px;
+}
+.fooot{
+    color: aquamarine;
+}
+.A img{
+   height: 80px;
+   width: 80px;
+   float: right;
+   
+}
+.row
+{
+    display: flex;
+    justify-content: space-between;
+    flex-basis: 40%;
+    flex-wrap: wrap;
+
+}
+.rowimg{
+    width: 150px;
+padding-top: 50px;
+    height: 100px;
+}
+.nav-text{
+    text-decoration: none;
+    font-size: 30px;
+    color: #237989;
+    font-family: monospace;
+    font-weight: bold;
+    text-align: center;
+}
+.nav-text img{
+    height: 70px;
+    width: 50px;
+    padding: 10px;
+    display: inline;
+}
+nav{
+    display: flex;
+    width: 100%;
+    padding-bottom: 10px;
+    justify-content: space-between;
+    /* margin-bottom: 20px; */
+    height: 10%;
+    background-color: #000000;
+}
+.left-nav{
+    display: flex;
+}
+nav h1{
+    font-family: 'Kanit', sans-serif;
+    font-size: 30px;
+    padding: 20px;
+    padding-left: 70px;
+}
+ol{
+    color: white;
+}
+.foot{
+    color: white;
+    margin: 0;
+    padding: 0;
+}
